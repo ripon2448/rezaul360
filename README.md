@@ -1,7 +1,7 @@
 ![I am Rezaul Karim](https://github.com/rezaul360/rezaul360/blob/60f3a5c85bb23ea4f22f4ccee13716f779b2055b/Rezaul360.png)
 
 
-<h1 align="center">Hi 👋, I'm Rezaul Karim(Tutul)</h1>
+<h1 align="center">Hi 👋, I'm Rezaul Karim</h1>
 <h3 align="center">MERN Stack Web Developer and Web Designer</h3>
 
 ![Profile views](https://gpvc.arturio.dev/rezaul360) 
@@ -21,7 +21,7 @@ Skills: PHP/ JAVASCRIPT/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
 
 - 📫 How to reach me **rezaulkarim2448@gmail.com**
 
-- 📄 All About Me:[https://linktr.ee/tutul181](https://linktr.ee/rezaul360)
+- 📄 All About Me:[https://linktr.ee/rezaul360](https://linktr.ee/rezaul360)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
