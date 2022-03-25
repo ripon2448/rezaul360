@@ -1,41 +1,38 @@
-![I am harun181](https://github.com/rezaul360/rezaul360/blob/60f3a5c85bb23ea4f22f4ccee13716f779b2055b/Rezaul360.png)
+![I am Rezaul Karim](https://github.com/rezaul360/rezaul360/blob/60f3a5c85bb23ea4f22f4ccee13716f779b2055b/Rezaul360.png)
 
 
-<h1 align="center">Hi 👋, I'm HARUN UR ROSHID(Tutul)</h1>
-<h3 align="center">MERN Stack Web Developer and Web Designer of Hablu Programmer</h3>
+<h1 align="center">Hi 👋, I'm Rezaul Karim(Tutul)</h1>
+<h3 align="center">MERN Stack Web Developer and Web Designer</h3>
 
-![Profile views](https://gpvc.arturio.dev/harun181) 
+![Profile views](https://gpvc.arturio.dev/rezaul360) 
 
-Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer at Hablu Programmer Team. 
-Knock me: m.facebook.com/tutul.qcsc
+Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer. 
+Knock me: mobile.facebook.com/rezaull360
 
-Skills: PYTHON/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
+Skills: PHP/ JAVASCRIPT/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
  
-
-- 🔭 I’m currently working on [Hablu Programmer Team](https://www.youtube.com/habluprogrammer1/)
-
 - 🌱 I’m currently learning **JS, Python, React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/harun181)
+- 👨‍💻 All of my projects are available at [https://github.com/rezaul360](https://github.com/rezaul360)
 
-- 📝 I regularly write articles on [https://www.youtube.com/habluprogrammer1/](https://www.youtube.com/habluprogrammer1/)
+- 📝 I regularly write articles on [https://www.youtube.com/rezaul360deg](https://www.youtube.com/rezaul360deg)
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
+- 💬 Ask me about **PHP, HTML5, CSS3, JS, Bootstrap**
 
-- 📫 How to reach me **mdtutul763@gmail.com**
+- 📫 How to reach me **rezaulkarim2448@gmail.com**
 
-- 📄 All About Me:[https://linktr.ee/tutul181](https://linktr.ee/tutul181)
+- 📄 All About Me:[https://linktr.ee/tutul181](https://linktr.ee/rezaul360)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/tutul.qcsc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul.qcsc" height="30" width="40" /></a>
-<a href="https://twitter.com/tutul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun181" height="30" width="40" /></a>
-<a href="https://codepen.io/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="harun181" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hablu programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hablu programmer" height="30" width="40" /></a>
-<a href="https://instagram.com/tutul_181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
-<a href="https://dribbble.com/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="harun181" height="30" width="40" /></a>
-<a href="https://www.behance.net/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="harun181" height="30" width="40" /></a>
+<a href="https://fb.com/rezaull360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rezaul360" height="30" width="40" /></a>
+<a href="https://twitter.com/rezaul360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rezaul360" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rezaul360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rezaul360" height="30" width="40" /></a>
+<a href="https://codepen.io/rezaul360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rezaul360" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/rezaul360deg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rezaul360" height="30" width="40" /></a>
+<a href="https://instagram.com/rezaul360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rezaul360" height="30" width="40" /></a>
+<a href="https://dribbble.com/rezaul360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="rezaul360" height="30" width="40" /></a>
+<a href="https://www.behance.net/rezaul360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rezaul360" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -55,8 +52,8 @@ Skills: PYTHON/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harun181)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezaul360)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=harun181&show_icons=true)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=harun181)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=harun181)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rezaul360&show_icons=true)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rezaul360)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rezaul360)  
